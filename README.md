@@ -7,7 +7,6 @@
 # My Project
 **==| Owner |==** 🌈
 > [SAMP] 4Kings White
-
 **==| Adminstator |==** 💻
 > [SAMP] White City<br>
 
