@@ -2,13 +2,13 @@
 # Introduce
 **Name** | Nattapong Thodsapa<br>
 **Nickname** | Ball<br>
-**Birthday** | 22/06/20xx
+**Birthday** | 22/06/200x
 
-### ผลงานล่าสุด 🍑<br>
-**-- Owner --** 
+### My Project 🍑<br>
+**==| Owner |==** 
 > [SAMP] 4Kings White <br>
 
-**-- Adminstator --** 🍑
+**==| Adminstator |==** 🍑
 > [SAMP] White City<br>
 
 # Follow Me!!!
