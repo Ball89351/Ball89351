@@ -4,6 +4,10 @@
 **Nickname** | Ball<br>
 **Birthday** | 22/06/200x
 
+# **Hobby**
+Develop and fix and server-side systems.
+Playgame , Discord.
+
 ### My Project <br>
 **==| Owner |==** 🌈
 > [SAMP] 4Kings White <br>
