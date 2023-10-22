@@ -16,8 +16,8 @@ Develop and fix and server-side systems.
 Playgame , Discord.
 
 # Follow Me!!!
-[Facebook](https://www.facebook.com/bxballzx)<br>
-[Instagram](https://www.instagram.com/_bxker.bxl/)<br>
+- [Facebook](https://www.facebook.com/bxballzx)<br>
+- [Instagram](https://www.instagram.com/_bxker.bxl/)<br>
 <br>
 <br>
 # Attitude
