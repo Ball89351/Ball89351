@@ -6,10 +6,10 @@
 
 # My Project
 **==| Owner |==** 🌈
-> [SAMP] 4Kings White<br>
+> **[SAMP]** 4Kings White<br>
 
 **==| Adminstator |==** 💻
-> [SAMP] White City<br>
+> **[SAMP]** White City<br>
 
 # **Hobby**
 Develop and fix and server-side systems.
