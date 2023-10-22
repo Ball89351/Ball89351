@@ -21,7 +21,7 @@ Playgame , Discord.
 <br>
 <br>
 # Attitude
-Focus on developing, not copying.
+Focus on imitation, not development.
 
 
 
