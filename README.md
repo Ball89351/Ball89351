@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Ball89351
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Wellcome To My Github Profile. 👋
+# Introduce
+**Name** | Nattapong Thodsapa<br>
+**Nickname** | Ball<br>
+**Birthday** | 22/06/20xx
 
-<!---
-Ball89351/Ball89351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ผลงานล่าสุด 🍑<br>
+**-- Owner --** 
+> [SAMP] 4Kings White <br>
+
+**-- Adminstator --** 🍑
+> [SAMP] White City<br>
+
+# Follow Me!!!
+[Facebook](https://www.facebook.com/bxballzx)<br>
+<br>
+<br>
+# Attitude
+Focus on developing, not copying.
+
+
+
+<!--
+**ChamoyZ/ChamoyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
